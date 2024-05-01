@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-01T10:30:24 IST" name="Suite" finished-at="2024-05-01T10:30:29 IST" duration-ms="4888">
+    <groups>
+    </groups>
+    <test started-at="2024-05-01T10:30:24 IST" name="Test" finished-at="2024-05-01T10:30:29 IST" duration-ms="4888">
+      <class name="com.application.tests.ApiTest">
+        <test-method is-config="true" signature="setupReport()[pri:0, instance:com.application.tests.ApiTest@3b0fe47a]" started-at="2024-05-01T10:30:24 IST" name="setupReport" finished-at="2024-05-01T10:30:24 IST" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupReport -->
+        <test-method signature="verifyCreateRepoRequest()[pri:1, instance:com.application.tests.ApiTest@3b0fe47a]" started-at="2024-05-01T10:30:25 IST" name="verifyCreateRepoRequest" finished-at="2024-05-01T10:30:27 IST" duration-ms="2954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCreateRepoRequest -->
+        <test-method signature="verifyGetRepoRequest()[pri:2, instance:com.application.tests.ApiTest@3b0fe47a]" started-at="2024-05-01T10:30:28 IST" name="verifyGetRepoRequest" finished-at="2024-05-01T10:30:29 IST" duration-ms="896" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGetRepoRequest -->
+        <test-method signature="verifyDeleteRepoRequest()[pri:3, instance:com.application.tests.ApiTest@3b0fe47a]" started-at="2024-05-01T10:30:29 IST" name="verifyDeleteRepoRequest" finished-at="2024-05-01T10:30:29 IST" duration-ms="759" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDeleteRepoRequest -->
+      </class> <!-- com.application.tests.ApiTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
